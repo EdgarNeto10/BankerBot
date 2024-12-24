@@ -41,3 +41,7 @@ Default fallback intent when no other intent matches
 
 <img width="341" alt="Captura de ecrã 2024-12-09, às 11 34 26" src="https://github.com/user-attachments/assets/b29119ce-05ab-425f-8c94-badc78b79cb4" />
 
+### FlowDiagram 
+
+<img width="1240" alt="Captura de ecrã 2024-12-14, às 13 01 07" src="https://github.com/user-attachments/assets/bdebd168-d132-4230-a29e-051318e4e39a" />
+
