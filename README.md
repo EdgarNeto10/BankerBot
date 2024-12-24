@@ -9,14 +9,14 @@ Banker Bot to help customer check their balance and make transfers
 |  50035284  | Edgar Neto |
 
 
-# Intents
+## Intents
 
 ### Welcome intent
 
 <img width="339" alt="Captura de ecrã 2024-12-09, às 10 54 18" src="https://github.com/user-attachments/assets/139057e0-c18b-4a00-ad07-8dca36c38141" />
 
 
-Intent to check the balance in the specified account type
+### Intent to check the balance in the specified account type
 
 <img width="337" alt="Captura de ecrã 2024-12-10, às 13 22 21" src="https://github.com/user-attachments/assets/b3b57937-959d-4f18-b077-a576a3bd0dae" />
 
